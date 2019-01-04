@@ -1,0 +1,17 @@
+Automation for 3D designing (Python, VBScript)
+
+Automation for Photoshop (Javascript)
+
+Landing page design (HTML, CSS, CanvasAPI, Javascript)
+
+Front-end design for ERPLite (React)
+
+Front-end design for OneView (React)
+
+HTML for online marketing campaigns (React, Vue)
+
+Front-end development for Freedom (React)
+
+
+
+
